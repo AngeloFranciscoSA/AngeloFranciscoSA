@@ -5,10 +5,18 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelofransicosa/)](https://www.linkedin.com/in/angelofransicosa/)
 
 
-## About me
+## Professional Experience
 
 I'm a PHP developer focused in API, more expecific in miniframework Lumen. 
 
+# About me
+
+I enjoy spending my time playing video game with my friends, watch some anime or just hanging out with them. I love to listen music, for me a good music is better independent than gender. 
+Favorite music's genders:
+- HipHop
+- Electronic dance music
+- JPOP (Japonese popular music)
+- Soundtracks for music, series and animes
 
 ## My Stats
 
