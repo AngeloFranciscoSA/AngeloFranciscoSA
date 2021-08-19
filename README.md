@@ -3,13 +3,6 @@
 <img src="https://c.tenor.com/FvthnLepGgAAAAAM/hi-hello.gif">
 
 
-## Contact Me
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:angelo.infinity002@gmail.com)](mailto:angelo.infinity002@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelofransicosa/)](https://www.linkedin.com/in/angelofransicosa/)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
-
-
 ## Professional Experience
 
 I'm a PHP developer focused in API, more expecific in miniframework Lumen.
@@ -34,20 +27,16 @@ Nowadays, I'm working in TrackCash a Startup in my city. I'm responsible to API.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloFranciscoSA&langs_count=5&theme=omni"> <img align="right" src="https://github-readme-stats.vercel.app/api?username=AngeloFranciscoSA&show_icons=true&theme=omni">
 
-<!--
-**AngeloFranciscoSA/AngeloFranciscoSA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Personal Projects
 
-Here are some ideas to get you started:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AngeloFranciscoSA&repo=Flask-with-ChromeApp&theme=omni)](https://github.com/AngeloFranciscoSA/Flask-with-ChromeApp)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AngeloFranciscoSA&repo=APIs-Lumen&theme=omni)](https://github.com/AngeloFranciscoSA/APIs-Lumen)
 
 ## Thanks you for be here
 <img src="https://thumbs.gfycat.com/DistantUnhappyCowrie-max-1mb.gif">
+
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:angelo.infinity002@gmail.com)](mailto:angelo.infinity002@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelofransicosa/)](https://www.linkedin.com/in/angelofransicosa/)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
