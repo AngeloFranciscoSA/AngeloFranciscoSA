@@ -2,6 +2,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:angelo.infinity002@gmail.com)](mailto:angelo.infinity002@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelofransicosa/)](https://www.linkedin.com/in/angelofransicosa/)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
+
+## My Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloFranciscoSA&langs_count=5&theme=synthwave"> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloFranciscoSA&langs_count=5&theme=synthwave">
+
 <!--
 **AngeloFranciscoSA/AngeloFranciscoSA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
