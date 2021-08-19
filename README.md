@@ -5,7 +5,7 @@
 
 ## My Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloFranciscoSA&langs_count=5&theme=synthwave"> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloFranciscoSA&langs_count=5&theme=synthwave">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloFranciscoSA&langs_count=5&theme=synthwave"> <img align="right" src="https://github-readme-stats.vercel.app/api?username=AngeloFranciscoSA&show_icons=true&theme=synthwave">
 
 <!--
 **AngeloFranciscoSA/AngeloFranciscoSA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
