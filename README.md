@@ -7,6 +7,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:angelo.infinity002@gmail.com)](mailto:angelo.infinity002@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelofransicosa/)](https://www.linkedin.com/in/angelofransicosa/)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
 
 
 ## Professional Experience
@@ -50,5 +51,3 @@ Here are some ideas to get you started:
 
 ## Thanks you for be here
 <img src="https://thumbs.gfycat.com/DistantUnhappyCowrie-max-1mb.gif">
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
