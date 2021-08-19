@@ -5,6 +5,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelofransicosa/)](https://www.linkedin.com/in/angelofransicosa/)
 
 
+## About me
+
+I'm a PHP developer focused in API, more expecific in miniframework Lumen. 
+
 
 ## My Stats
 
@@ -26,4 +30,5 @@ Here are some ideas to get you started:
 -->
 
 ## Thanks you for be here
+<img src="https://thumbs.gfycat.com/DistantUnhappyCowrie-max-1mb.gif">
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
