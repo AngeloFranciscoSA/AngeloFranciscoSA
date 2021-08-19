@@ -11,8 +11,8 @@ I'm a PHP developer focused in API, more expecific in miniframework Lumen.
 
 # About me
 
-* I enjoy spending my time playing video game with my friends, watch some anime or just hanging out with them. I love to listen music, for me a good music is better independent than gender. 
-* Favorite music's genders:
+  I enjoy spending my time playing video game with my friends, watch some anime or just hanging out with them. I love to listen music, for me a good music is better independent than gender. 
+  Favorite music's genders:
 - HipHop
 - Electronic dance music
 - JPOP (Japonese popular music)
