@@ -26,14 +26,6 @@ Nowadays, I'm working in TrackCash a Startup in my city. I'm responsible to API.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloFranciscoSA&langs_count=5&theme=omni"> <img align="right" src="https://github-readme-stats.vercel.app/api?username=AngeloFranciscoSA&show_icons=true&theme=omni">
 
-## My Personal Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AngeloFranciscoSA&repo=Flask-with-ChromeApp&theme=omni)](https://github.com/AngeloFranciscoSA/Flask-with-ChromeApp)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AngeloFranciscoSA&repo=APIs-Lumen&theme=omni)](https://github.com/AngeloFranciscoSA/APIs-Lumen)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AngeloFranciscoSA&repo=Bibliotech_TCC&theme=omni)](https://github.com/AngeloFranciscoSA/Bibliotech_TCC)
-
 ## Thanks you for be here
 <img src="https://thumbs.gfycat.com/DistantUnhappyCowrie-max-1mb.gif">
 
