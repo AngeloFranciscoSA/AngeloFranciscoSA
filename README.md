@@ -1,4 +1,4 @@
-### Hi there, I'm Ângelo Francisco 👋
+### Hi there, I'm Ângelo Francisco
 
 <img src="https://c.tenor.com/FvthnLepGgAAAAAM/hi-hello.gif">
 
