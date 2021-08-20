@@ -6,7 +6,7 @@
 
 I'm a PHP developer focused in API, more expecific in miniframework Lumen.
 
-I start my carrer like teacher, I gived TI's Class from a small school in my city in 2019, I stayed there from 3 months.
+I started my carrer like teacher, I gived TI's Class from a small school in my city in 2019, I stayed there from 3 months.
 
 After this, I start to working in Embraer SA as a Intern. Stay there from 1 year and 9 months, there I learned Python and Data Science.
 
@@ -14,13 +14,13 @@ Nowadays, I'm working in TrackCash a Startup in my city. I'm responsible to API.
 
 ## About me
 
- I enjoy to spending my time playing video game with my friends, watch some anime or just hanging out with them. I love to listen music, for me a good music is better independent than gender.
+I enjoy to spending my time playing video game with my friends, watch some animes or just hanging out with them. I love to listen music, for me a good music is better independent than genre.
   
- Favorite music's genders:
-- HipHop
+Favorite music genre:
+- Hip-Hop
 - Electronic dance music
 - JPOP (Japonese popular music)
-- Soundtracks for music, series and animes
+- Soundtracks for songs, series and animes
 
 ## My Stats
 
