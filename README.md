@@ -1,4 +1,4 @@
-### Hi there, I'm Ângelo Francisco
+## Hi there, I'm Ângelo Francisco
 
 <img src="https://c.tenor.com/FvthnLepGgAAAAAM/hi-hello.gif">
 
@@ -12,7 +12,7 @@ After this, I start to working in Embraer SA as a Intern. Stay there from 1 year
 
 Nowadays, I'm working in TrackCash a Startup in my city. I'm responsible to API.
 
-# About me
+## About me
 
  I enjoy to spending my time playing video game with my friends, watch some anime or just hanging out with them. I love to listen music, for me a good music is better independent than gender.
   
