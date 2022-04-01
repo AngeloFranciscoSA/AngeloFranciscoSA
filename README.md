@@ -4,7 +4,7 @@
 
 ## Professional Experience
 
-I'm a PHP developer focused in API, more expecific in miniframework Lumen.
+I'm a Python developer focused in Backend.
 
 I started my carrer like teacher, I gived TI's Class from a small school in my city in 2019, I stayed there from 3 months.
 
