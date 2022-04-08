@@ -4,13 +4,13 @@
 
 ## Professional Experience
 
-I'm a Python developer focused in Backend.
+I'm a Backend developer.
 
 I started my carrer like teacher, I gived TI's Class from a small school in my city in 2019, I stayed there from 3 months.
 
 After this, I start to working in Embraer SA as a Intern. Stay there from 1 year and 9 months, there I learned Python and Data Science.
 
-Nowadays, I'm working in TrackCash a Startup in my city. I'm responsible to API and Interfaces.
+Nowadays, I'm working in TrackCash a Startup in my city. I'm responsible to API and Laravel backend.
 
 ## About me
 
