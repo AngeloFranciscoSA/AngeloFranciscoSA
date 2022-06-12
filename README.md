@@ -10,7 +10,8 @@ I started my carrer like teacher, I gived TI's Class from a small school in my c
 
 After this, I start to working in Embraer SA as a Intern. Stay there from 1 year and 9 months, there I learned Python and Data Science.
 
-Nowadays, I'm working in TrackCash a Startup in my city. I'm responsible to API and Laravel backend.
+Recently, I was working in TrackCash a Startup in my city, I was responsible to API and Laravel backend. Now I'm working at INPE on the Queimadas project, with python programs and report generation
+
 
 ## About me
 
