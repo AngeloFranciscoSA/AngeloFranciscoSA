@@ -4,13 +4,11 @@
 
 ## Professional Experience
 
-I'm a Backend developer.
+With four years of experience in software development, I stand out for having worked on projects with high data traffic and for supporting legacy systems.
 
-I started my carrer like teacher, I gived TI's Class from a small school in my city in 2019, I stayed there from 3 months.
+I have solid skills in Python, PHP and their respective frameworks. I am motivated, committed and constantly seek innovative solutions to complex challenges. 
 
-After this, I start to working in Embraer SA as a Intern. Stay there from 1 year and 9 months, there I learned Python and Data Science.
-
-Recently, I was working in TrackCash a Startup in my city, I was responsible to API and Laravel backend. Now I'm working at INPE on the Queimadas project, with python programs and report generation
+I am looking for new challenging opportunities where I can apply my experience and knowledge to drive the development of advanced technological solutions.
 
 
 ## About me
